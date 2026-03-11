@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include <DirectXMath.h>
 #include <memory>
 #include <string>
@@ -14,7 +14,6 @@
 #include "ScoreSystem.h"
 #include "Tile.h"
 #include "Wall.h"
-
 
 class FActor;
 class FTextureManager;
@@ -117,10 +116,15 @@ class FStage
     float RemainingTime = 60.0f;
     float TimeLimit = 60.0f;
 
-    int  DarknessLevel = 2; // 0~4 (5단계)
+    int   DarknessLevel = 2; // 0~4 (5단계)
     bool  bTimeFrozen = false;
     float TimeFreezeRemaining = 0.0f;
-    bool bDarknessDisabled = false;
+    bool  bDarknessDisabled = false;
+
+    // Angry 모드
+    bool  bIsAngry = false;
+    float AngryTime = 0.0f;       // 이 시간 이하일 때 Angry 발동
+    float AngryTimeScale = 1.3f;  // Angry 시 TimeScale
 
     // Angry 모드
     bool  bIsAngry = false;
