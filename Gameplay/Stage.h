@@ -126,11 +126,6 @@ class FStage
     float AngryTime = 0.0f;       // 이 시간 이하일 때 Angry 발동
     float AngryTimeScale = 1.3f;  // Angry 시 TimeScale
 
-    // Angry 모드
-    bool  bIsAngry = false;
-    float AngryTime = 0.0f;       // 이 시간 이하일 때 Angry 발동
-    float AngryTimeScale = 1.3f;  // Angry 시 TimeScale
-
     bool bIsGameOver = false;
     bool bIsCleared = false;
 
