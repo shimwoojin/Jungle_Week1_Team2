@@ -74,7 +74,6 @@ bool FApplication::InitializeResources()
     LoadTex("effect_miss", "Resources/Sprites/effect_miss.png");
 
     LoadTex("item_invincibility", "Resources/Sprites/item_invincibility.png");
-    LoadTex("item_time_scale_up", "Resources/Sprites/item_time_scale_up.png");
     LoadTex("item_time_scale_down", "Resources/Sprites/item_time_scale_down.png");
     LoadTex("item_darkness_up", "Resources/Sprites/item_darkness_up.png");
     LoadTex("item_darkness_down", "Resources/Sprites/item_darkness_down.png");
