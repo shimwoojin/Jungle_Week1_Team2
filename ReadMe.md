@@ -2,6 +2,8 @@
 
 리듬에 맞춰 던전을 탐험하는 2D 비트 액션 게임 (DirectX 11)
 
+**크래프톤 정글 1주차 게임잼** · 2026.03.09 ~ 03.12 (3일) · 4인 팀 프로젝트 · 게임 엔진 없이 C++/DirectX 11로 직접 구현
+
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/e3ChT2VRuvk/0.jpg)](https://youtu.be/e3ChT2VRuvk)
@@ -72,4 +74,13 @@ Resources/
 
 ## 팀원
 
-크래딧 정보는 `Resources/Data/credits.json` 참조
+4인 팀으로 3일간 진행한 게임잼 프로젝트입니다.
+
+| 이름 | 인게임 크레딧 |
+|------|--------------|
+| 김연하 | 오타쿠 개발자 |
+| 이호진 | 칭찬하는 개발자 |
+| 심우진 | 꼰대 개발자 |
+| 전현길 | 그림쟁이 개발자 |
+
+> 인게임 크레딧 표기는 `Resources/Data/credits.json`에서 관리합니다.
