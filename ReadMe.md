@@ -6,7 +6,7 @@
 
 ## Demo
 
-[![Demo Video](https://img.youtube.com/vi/e3ChT2VRuvk/0.jpg)](https://youtu.be/e3ChT2VRuvk)
+[![Demo Video](https://img.youtube.com/vi/O12syUQLmXA/0.jpg)](https://youtu.be/O12syUQLmXA)
 
 ## 문서화
 
